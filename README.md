@@ -1,5 +1,5 @@
 My first React App.
 
-[ToDo App] [1]
+[My App]
 
-[1]: http://useless-street.surge.sh/
+[My App]: http://useless-street.surge.sh/
